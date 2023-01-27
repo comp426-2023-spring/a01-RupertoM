@@ -1,7 +1,7 @@
 {
   "name": "comp426-RupertoM-webserver",
   "version": "1.0.0",
-  "description": "This is a simple web server."
+  "description": "This is a simple web server.",
   "main": "server.js",
   "scripts": {
     "test": "node server.js --port=5555"
@@ -10,15 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/comp426-2023-spring/a01-RupertoM.git"
   },
-  "keywords": [
-    "web",
-    "server",
-    "port",
-    "node",
-    "fs",
-    "args",
-    "http"
-  ],
   "author": "RupertoM",
   "license": "GPL-3.0-or-later",
   "bugs": {
